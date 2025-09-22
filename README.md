@@ -1,7 +1,7 @@
 ### 📋 Feladatok
 
 ## 1. Struktúra használata
-- Hozz létre egy Film nevű struct-ot, amely tartalmazza:
+- Hozz létre egy `Film nevű` struct-ot, amely tartalmazza:
 - Cím (string)
 - Rendező (string)
 - Év (int)
